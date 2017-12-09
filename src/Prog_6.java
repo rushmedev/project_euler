@@ -12,6 +12,6 @@ public class Prog_6 {
         }
         square_sum = sum_numbers * sum_numbers;
         diffrence = square_sum - sum_square;
-        System.out.println("Difference between the sum of the squares of the first one hundred natural numbers and the square of the sum = "+diffrence);
+        System.out.println("Difference is = "+diffrence);
     }
 }
